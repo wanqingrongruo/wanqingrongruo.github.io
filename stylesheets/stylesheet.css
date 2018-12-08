@@ -10,7 +10,7 @@ body {
   color: #606c71; }
 
 a {
-  color: #ffffff;
+  color: #1e6bb8;
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
@@ -91,7 +91,7 @@ a {
   margin-bottom: 2rem;
   font-weight: normal;
   opacity: 0.5; 
-  color:#fff;
+  color: #ffffff;
 }
 
 @media screen and (min-width: 64em) {
